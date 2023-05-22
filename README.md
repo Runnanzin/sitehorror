@@ -1,3 +1,3 @@
 # sitehorror
 
-Site de jogo de terror aprendido no Rocketseat
+Esse é um dos três primeiros projetos que eu fiz
